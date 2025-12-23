@@ -1,0 +1,8 @@
+2025-12-23 23:12:12,636 INFO start input=app.log output=output\flagged.log
+2025-12-23 23:12:12,636 ERROR unexpected read failure: 
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\COLLEGE\SELF LEARN\CLOUD-DEVOPS\cloud-devops-journal\day04\log_scanner.py", line 49, in main
+    lines = read_lines(INPUT_PATH)
+  File "C:\Users\User\Desktop\COLLEGE\SELF LEARN\CLOUD-DEVOPS\cloud-devops-journal\day04\log_scanner.py", line 26, in read_lines
+    raise NotImplementedError
+NotImplementedError
