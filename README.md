@@ -45,7 +45,20 @@ Daily execution log for Python, Linux, and automation fundamentals with strict G
 - Practiced failure testing by deliberately breaking inputs
 
 **Artifact**:
-`day04/log_scanner.py`,
-`day04/app.log`,
-`day04/output/flagged.log`,
-`day04/logs/run.log`
+`day04/log_scanner.py`,`day04/app.log`,`day04/output/flagged.log`,`day04/logs/run.log`
+
+## Day 5 — Server Health Check Script (Disk/CPU/Memory Logging)
+- Built a non-interactive health check script for ops monitoring
+- Captures key system signals:
+  - Disk usage percentage (via `shutil.disk_usage`)
+  - CPU usage percentage (via `psutil.cpu_percent`)
+  - Memory usage percentage (via `psutil.virtual_memory`)
+- Writes timestamped operational logs to `logs/health.log` using Python `logging`
+- Designed for unattended execution (cron/Task Scheduler friendly)
+- Exit codes:
+  - `0` = success (metrics recorded)
+  - `1` = missing dependency (`psutil` not installed)
+  - `3` = unexpected failure (exception logged)
+
+**Artifact**:
+`day05/server_health.py`,`day05/logs/health.log`
