@@ -62,3 +62,9 @@ Daily execution log for Python, Linux, and automation fundamentals with strict G
 
 **Artifact**:
 `day05/server_health.py`,`day05/logs/health.log`
+
+
+## Day 6-7 — Refactoring to Professional CLI Tool (ops_tool.py)
+
+### Day 6: Argument Parsing + Logging + Modular Functions
+- Replacing `input()` with `argparse` for non-interactive CLI execution
