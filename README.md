@@ -96,4 +96,4 @@ Daily execution log for Python, Linux, and automation fundamentals with strict G
 Until then: re-practicing Day 1-7 code, reinforcing fundamentals, and preparing for Linux + Git deep-dive.
 Today (27/12/2025) was taken as a rest day. No study or coding tasks were performed.
 Time was spent on system setup and recreation (installed Knulli OS on a retro console and ported games).
-Regular study schedule resumes next session.
+Regular study schedule resumes next session. I will again sit down to study around 6 or 7 tomorrow. I’ll study until midnight, or around that. I don’t really know why I am learning these codes anymore. Will I eventually write such things? Who knows. But AI is telling me to learn it, so I will, I guess.
