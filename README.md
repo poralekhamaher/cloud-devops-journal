@@ -94,3 +94,6 @@ Daily execution log for Python, Linux, and automation fundamentals with strict G
 **Day 8 begins January 1, 2025.**
 
 Until then: re-practicing Day 1-7 code, reinforcing fundamentals, and preparing for Linux + Git deep-dive.
+Today (27/12/2025) was taken as a rest day. No study or coding tasks were performed.
+Time was spent on system setup and recreation (installed Knulli OS on a retro console and ported games).
+Regular study schedule resumes next session.
