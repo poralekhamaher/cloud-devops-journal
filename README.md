@@ -97,3 +97,19 @@ Until then: re-practicing Day 1-7 code, reinforcing fundamentals, and preparing 
 Today (27/12/2025) was taken as a rest day. No study or coding tasks were performed.
 Time was spent on system setup and recreation (installed Knulli OS on a retro console and ported games).
 Regular study schedule resumes next session. I will again sit down to study around 6 or 7 tomorrow. I’ll study until midnight, or around that. I don’t really know why I am learning these codes anymore. Will I eventually write such things? Who knows. But AI is telling me to learn it, so I will, I guess.
+
+## Temporary Pause — January 2025 (Freelance Work)
+
+**Date**: January 1, 2025
+
+Starting January 1, I paused the DevOps learning schedule temporarily due to a freelance project for **Healthy Max BD**.
+
+The work involves building a website focused on:
+- Converting visitors into customers/patients
+- Supporting patient acquisition and coordination workflows
+- Preparing iterative versions (V1 → V2) based on testing and feedback
+
+This is a short, time-boxed pause (approximately **one week maximum**).  
+Once the project is completed, I will resume the DevOps learning plan and continue daily execution in this repository.
+
+This note exists to keep the learning timeline transparent and honest.
